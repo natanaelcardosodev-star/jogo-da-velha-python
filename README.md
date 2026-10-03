@@ -1,5 +1,3 @@
-# jogo-da-velha-python
-Jogo da Velha interativo para terminal desenvolvido em Python com suporte a cores ANSI
 
 <div align="center">
   <h1>❌ Jogo da Velha em Python ⭕</h1>
@@ -17,17 +15,17 @@ Jogo da Velha interativo para terminal desenvolvido em Python com suporte a core
 
 Este é um projeto desenvolvido em **Python** que recria o clássico **Jogo da Velha (Tic-Tac-Toe)** para ser jogado diretamente no terminal de comandos. 
 
-O jogo conta com uma interface colorida no terminal através de códigos de escape ANSI, alternância automática entre dois jogadores (`X` e `O`), verificação instantânea de condições de vitória[cite: 1] e tratamento contra jogadas inválidas[cite: 1].
+O jogo conta com uma interface colorida no terminal através de códigos de escape ANSI, alternância automática entre dois jogadores (`X` e `O`), verificação instantânea de condições de vitória e tratamento contra jogadas inválidas.
 
 ---
 
 ## ✨ Funcionalidades Principais
 
-- 🎨 **Interface Colorida no Terminal:** Utiliza sequências ANSI para renderizar o tabuleiro e destacar os símbolos dos jogadores com cores distintas[cite: 1].
-- 🎮 **Alternância Automática de Turnos:** Controle dinâmico de turnos entre os jogadores `X` e `O`[cite: 1].
-- 🛑 **Validação de Posições:** Impede que uma posição já ocupada seja sobrescrita[cite: 1].
-- 🏆 **Detecção de Vitória:** Algoritmo que checa automaticamente linhas, colunas e diagonais a cada rodada[cite: 1].
-- ⚠️ **Tratamento de Exceções:** Prevenção de erros usando blocos `try/except` para entradas inválidas no terminal[cite: 1].
+- 🎨 **Interface Colorida no Terminal:** Utiliza sequências ANSI para renderizar o tabuleiro e destacar os símbolos dos jogadores com cores distintas.
+- 🎮 **Alternância Automática de Turnos:** Controle dinâmico de turnos entre os jogadores `X` e `O`.
+- 🛑 **Validação de Posições:** Impede que uma posição já ocupada seja sobrescrita.
+- 🏆 **Detecção de Vitória:** Algoritmo que checa automaticamente linhas, colunas e diagonais a cada rodada.
+- ⚠️ **Tratamento de Exceções:** Prevenção de erros usando blocos `try/except` para entradas inválidas no terminal.
 
 ---
 
@@ -35,7 +33,7 @@ O jogo conta com uma interface colorida no terminal através de códigos de esca
 
 - **Linguagem:** [Python 3](https://www.python.org/)
 - **Paradigma:** Programação Estruturada / Lógica Matrense
-- **Recursos:** Estruturas de decisão, Laços de repetição, Matrizes bidimensionais, Códigos ANSI para cores[cite: 1]
+- **Recursos:** Estruturas de decisão, Laços de repetição, Matrizes bidimensionais, Códigos ANSI para cores
 
 ---
 
